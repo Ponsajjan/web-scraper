@@ -1,1 +1,1 @@
-scripts to extract data from websites
+scripts to extract data from Amazon
